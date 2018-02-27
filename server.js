@@ -35,7 +35,7 @@ function createTemplate(data){
     var heading=data.heading;
     var content=data.content;
     var date=data.date;
-    var htlTemplate=`<html>
+    var htmlTemplate=`<html>
         <head>
             <title>
                 ${title}
